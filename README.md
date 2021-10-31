@@ -14,9 +14,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 <p>
   <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <code><img width="15%" src="https://https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></code>
 </p>
 
 ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
